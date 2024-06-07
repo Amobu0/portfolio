@@ -15,15 +15,15 @@
 </br>
 
 ## 📌 Projects
-### 1. [프로젝트 이름](여기에링크걸기)
+### 1. [프로젝트 이름](https://github.com/green-lotte2/lotteon-team4))
 >롯데온 쇼핑몰 홈페이지(팀 프로젝트)</br>
->개발 기간: 2024.4.16 ~ 2024.5.16
+>개발 기간: 2024.4.16 ~ 2024.5.17
 >
 >기슬 스택:
 >java 17 / Spring Boot / Gradle / Spring Data JPA </br>
 >MySQL / Spring Security / Thymeleaf
 >
->[프로젝트 상세 설명](여기에 링크 걸기) 참고
+>[프로젝트 상세 설명](https://github.com/green-lotte2/lotteon-team4)
 >
 ---
 
