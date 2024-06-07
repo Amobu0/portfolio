@@ -23,7 +23,7 @@
 >java 17 / Spring Boot / Gradle / Spring Data JPA </br>
 >MySQL / Spring Security / Thymeleaf
 >
->[프로젝트 상세 설명](https://github.com/green-lotte2/lotteon-team4)
+>[프로젝트 상세 설명](https://github.com/green-lotte2/lotteon-team4) 참고
 >
 ---
 
