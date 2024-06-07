@@ -19,7 +19,7 @@
 >롯데온 쇼핑몰 홈페이지(팀 프로젝트)</br>
 >개발 기간: 2024.4.16 ~ 2024.5.17
 >
->기슬 스택:
+>기슬 스택: </br>
 >java 17 / Spring Boot / Gradle / Spring Data JPA </br>
 >MySQL / Spring Security / Thymeleaf
 >
