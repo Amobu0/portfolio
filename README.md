@@ -15,7 +15,7 @@
 </br>
 
 ## 📌 Projects
-### 1. [프로젝트 이름](https://github.com/green-lotte2/lotteon-team4))
+### 1. [LotteON 쇼핑몰](https://github.com/green-lotte2/lotteon-team4)
 >롯데온 쇼핑몰 홈페이지(팀 프로젝트)</br>
 >개발 기간: 2024.4.16 ~ 2024.5.17
 >
