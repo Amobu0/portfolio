@@ -30,7 +30,7 @@
 ---
 ### 2. [BLOG 만들기](https://github.com/Amobu0/blog)
 >개인 BLOG 만들기 (클론코딩 개인 프로젝트)</br>
->개발 기간: 2024.5.20 ~ 2024.6.07
+>개발 기간: 2024.5.20 ~ 2024.6.7
 >
 >기슬 스택: </br>
 >java 17 / Spring Boot / Gradle / Spring Data JPA </br>
