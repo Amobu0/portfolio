@@ -28,3 +28,13 @@
 >[프로젝트 상세 설명](https://github.com/green-lotte2/lotteon-team4) 참고
 >
 ---
+### 2. [BLOG 만들기](https://github.com/Amobu0/blog)
+>개인 BLOG 만들기 (클론코딩 개인 프로젝트)</br>
+>개발 기간: 2024.5.20 ~ 2024.6.07
+>
+>기슬 스택: </br>
+>java 17 / Spring Boot / Gradle / Spring Data JPA </br>
+>MySQL / Spring Security / Thymeleaf
+>
+>[프로젝트 상세 설명](https://github.com/Amobu0/blog) 참고
+>
