@@ -34,7 +34,7 @@
 >
 >기슬 스택: </br>
 >java 17 / Spring Boot / Gradle / Spring Data JPA </br>
->MySQL / Spring Security / Thymeleaf
+>H2 / Spring Security / Thymeleaf / JWT / OAuth2.0
 >
 >[프로젝트 상세 설명](https://github.com/Amobu0/blog) 참고
 >
