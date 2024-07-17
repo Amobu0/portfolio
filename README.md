@@ -36,5 +36,5 @@
 >java 17 / Spring Boot / Gradle / Spring Data JPA </br>
 >H2 / Spring Security / Thymeleaf / JWT / OAuth2.0
 >
->[프로젝트 상세 설명](https://github.com/Amobu0/blog) 참고
+>[개인 프로젝트 후기](https://amobu0.tistory.com/4)참고
 >
