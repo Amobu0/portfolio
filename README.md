@@ -37,4 +37,5 @@
 >H2 / Spring Security / Thymeleaf / JWT / OAuth2.0
 >
 >[개인 프로젝트 후기](https://amobu0.tistory.com/4)참고
+>(https://github.com/Amobu0/blog) 참고
 >
