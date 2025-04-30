@@ -28,7 +28,18 @@
 >[프로젝트 상세 설명](https://github.com/green-lotte2/lotteon-team4) 참고
 >
 ---
-### 2. [BLOG 만들기](https://github.com/Amobu0/blog)
+### 2. [Q&A 게시판](https://github.com/Amobu0/qna_service)
+>Q&A 게시판 만들기 (개인 프로젝트)</br>
+>개발 기간: 2024.4.28 ~ 진행중
+>
+>기슬 스택: </br>
+>java 17 / Spring Boot / Gradle / Spring Data JPA </br>
+>MariaDB / JUNIT5 / Thymeleaf
+>
+>[프로젝트 상세 설명](https://github.com/Amobu0/qna_service)) 참고</br>
+>
+---
+### 3. [BLOG 만들기](https://github.com/Amobu0/blog)
 >개인 BLOG 만들기 (클론코딩 개인 프로젝트)</br>
 >개발 기간: 2024.5.20 ~ 2024.6.7
 >
@@ -36,6 +47,6 @@
 >java 17 / Spring Boot / Gradle / Spring Data JPA </br>
 >H2 / Spring Security / Thymeleaf / JWT / OAuth2.0
 >
->[개인 프로젝트 후기](https://amobu0.tistory.com/4) 참고</br>
+>[프로젝트 후기](https://amobu0.tistory.com/4) 참고</br>
 >[깃허브 코드](https://github.com/Amobu0/blog) 참고
 >
