@@ -30,7 +30,7 @@
 ---
 ### 2. [Q&A 게시판](https://github.com/Amobu0/qna_service)
 >Q&A 게시판 만들기 (개인 프로젝트)</br>
->개발 기간: 2024.4.28 ~ 진행중
+>개발 기간: 2025.4.28 ~ 진행중
 >
 >기슬 스택: </br>
 >java 17 / Spring Boot / Gradle / Spring Data JPA </br>
