@@ -36,7 +36,7 @@
 >java 17 / Spring Boot / Gradle / Spring Data JPA </br>
 >MariaDB / JUNIT5 / Thymeleaf
 >
->[프로젝트 상세 설명](https://github.com/Amobu0/qna_service)) 참고</br>
+>[프로젝트 상세 설명](https://github.com/Amobu0/qna_service) 참고</br>
 >
 ---
 ### 3. [BLOG 만들기](https://github.com/Amobu0/blog)
